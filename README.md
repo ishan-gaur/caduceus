@@ -1,4 +1,4 @@
-![Caduceus Logo](caduceus.png)
+<img src="caduceus.png" alt="Caduceus Logo" width="200"/>
 
 # Caduceus
 Get counts from paired-end reads fast in pure python
