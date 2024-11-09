@@ -1,3 +1,5 @@
+![Caduceus Logo](caduceus.png)
+
 # Caduceus
 Get counts from paired-end reads fast in pure python
 1. Run check_paired_files_match.py
